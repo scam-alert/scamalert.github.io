@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Hello and welcome to Scam Alert
 
-You can use the [editor on GitHub](https://github.com/scam-alert/scamalert.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I put up this site to alert unsuspecting users from falling prey to the newest scammers that I have seen (and yes I got scammed too). Here's my story.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I watch a bunch of financial news videos on youtube, and one fine day I noticed someone mentioning a name in the comments. I should have known right there that this was a scam.
 
-### Markdown
+But greed overcame me, also I had debt. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So I googled the name of the person "Lyudmyla baranov"
 
-```markdown
-Syntax highlighted code block
+Well, what do I see, she's a registered broker on https://brokercheck.finra.org/ - that boosted my trust so much, I started to overlook the obvious.
 
-# Header 1
-## Header 2
-### Header 3
+I contacted he over the email given on her website. Had a initial phone call. In hindsight, that should have triggered another red flag to me. She spoke in thick russian accent, told me everything a greedy investor with a lot of money to loose would do.
 
-- Bulleted
-- List
+She told me returns will be 20-30%, she will setup my account on her system, money will be held in my account, and I can copy trade based on her alerts.
+Meanwhile I found out that her domain was registed with identity protection (another huge red flag imo). But, my greed was not letting me see anything. 
 
-1. Numbered
-2. List
+I signed a contract with her, send her my details, she didn't ask for SSN or bank account details in the contract, pretty smart move to keep me comfortable with the contract.
 
-**Bold** and _Italic_ and `Code` text
+She asked me to invest a minimum of 5 figures. And the idiot that I am - I agreed.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scam-alert/scamalert.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+She asked fund in the form of Bitcoin to be sent
