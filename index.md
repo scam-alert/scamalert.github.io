@@ -32,9 +32,13 @@ Now I began to doubt her intentions, because I had told her in our previous comm
 I gave her a runaround, for abount a week, while I did more research on thirdeyeinvestment.
 
 I found the following on thirdeyeinvestment -
+
 youtube - https://www.youtube.com/channel/UCGyIWk1r3YYoXahaob4RxgA
+
 the guy who is in that video, called as CEO of thirdeyeinvestment - https://www.linkedin.com/in/dan-draper/
+
 its twitter account - https://twitter.com/ThirdEyeinvest1
+
 2 github accounts - https://github.com/Thirdeyeinvestmentgroup  and https://github.com/ThirdEyeinvestment
 
 I messaged Dan draper on linkedin, but never got a response. I also messaged a bunch of the followers on twitter, but did not get any response either.
@@ -46,7 +50,7 @@ I saw on thirdeyeinvestment, that I will have opportunity to withdraw profits on
 On 09/07 thirdeyeinvestment showed me that I can withdraw profits, so I followed the process of withdrawal, they said it takes about 3 hours to process withdrawal.
 But the funds never arrived. I contacted thirdeyeinvestment's support, but they simply closed their ticket. Its just a stupid site that is there to help the scammers. Then I contacted Lyudmyla, she said she will sort it out with thirdeyeinvestment, but it has been another week. I am now 100% certain that this is a scam.
 
-Now I see another such broker pop up "Juliana Gunawan Lee", who also is on brokercheck.
+Now I see another such broker pop up "Juliana Gunawan Lee", who also is on brokercheck. This person is very likely a scammer too.
 
 website - https://www.julianagunawanlee.me/
 
