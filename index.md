@@ -50,6 +50,8 @@ I saw on thirdeyeinvestment, that I will have opportunity to withdraw profits on
 On 09/07 thirdeyeinvestment showed me that I can withdraw profits, so I followed the process of withdrawal, they said it takes about 3 hours to process withdrawal.
 But the funds never arrived. I contacted thirdeyeinvestment's support, but they simply closed their ticket. Its just a stupid site that is there to help the scammers. Then I contacted Lyudmyla, she said she will sort it out with thirdeyeinvestment, but it has been another week. I am now 100% certain that this is a scam.
 
+Update 2020-10-28: They started reaching back to me trying to pull off an exit scam. They are showing a balance of about $85,721, remember my initial investment was about $30,000. So they have sent me an invoice of $8177.64, and asking me to pay this amount before they will release my funds. Why can't they deduct this from my account balance - because its a scam. They want to get more money for pretending to return my money.
+
 Now I see another such broker pop up "Juliana Gunawan Lee", who also is on brokercheck. This person is very likely a scammer too.
 
 website - https://www.julianagunawanlee.me/
