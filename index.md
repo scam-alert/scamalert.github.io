@@ -1,8 +1,11 @@
 # Scam Alert
 
 ## TL;DR
+
 There are "investment" scammers now, who have somehow profile page on https://brokercheck.finra.org
+
 Names of a few are in the details below.
+
 If you found this page via google search, then rest assured that the person who is luring you to make an "investment" is a scammer.
 
 
