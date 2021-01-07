@@ -1,5 +1,13 @@
 # Scam Alert
 
+## TL;DR
+There are "investment" scammers now, who have somehow profile page on https://brokercheck.finra.org
+Names of a few are in the details below.
+If you found this page via google search, then rest assured that the person who is luring you to make an "investment" is a scammer.
+
+
+## Details
+
 I put up this site to alert unsuspecting users from falling prey to the newest scammers that I have seen (and yes I got scammed too). Here's my story.
 
 The broker I am mentioning here is "Lyudmyla Baranov". I think she's running scam or part of a larger scam.
